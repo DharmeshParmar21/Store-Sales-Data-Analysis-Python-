@@ -1,55 +1,64 @@
-## 🛒 Store Sales Analysis
-## 📑 Table of Contents
+# 🛒 Store Sales Analysis
 
-📘 Project Overview
-
-📁 Files Included
-
-📊 Key Insights
-
-👨‍💻 How to Use
-
-👤 Author
-
-## 📘 Project Overview {#project-overview}
-
-A Python-based Exploratory Data Analysis (EDA) project built to understand customer behavior, sales patterns, and product category performance.
+A Python-based Exploratory Data Analysis (EDA) project built to understand customer behavior, sales patterns, and product category performance.  
 Using Python (Pandas, NumPy, Matplotlib, Seaborn), the project transforms raw sales data into clear, actionable insights.
 
-## 📁 Files Included {#files-included}
+---
 
-📓 Jupyter Notebook – Complete Python code for cleaning, analysis, and visualization
+## 📑 Table of Contents
 
-📄 PDF Report – Documented insights and charts
+- [📘 Project Overview](#project-overview)
+- [📁 Files Included](#files-included)
+- [📊 Key Insights](#key-insights)
+- [👨‍💻 How to Use](#how-to-use)
+- [👤 Author](#author)
 
-📊 Presentation (PPTX) – Summary of findings
+---
 
-📈 Raw CSV – Original dataset used in the project
+## 📘 Project Overview
 
-## 📊 Key Insights {#key-insights}
+A complete end-to-end Python EDA project designed to analyze store sales data and uncover patterns in:
 
-26–35 age group spends the most → prime marketing segment
+- Customer segmentation  
+- Revenue behavior  
+- State-level performance  
+- Category-level sales trends  
+- Marketing opportunities  
 
-Females place more orders than males
+The project uses Python for cleaning, analysis, and visualization.
 
-Top states: Uttar Pradesh, Maharashtra, Karnataka
+---
 
-Married customers show slightly higher spending
+## 📁 Files Included
 
-Food is the highest-revenue product category
+📓 **Jupyter Notebook** – Full Python code (cleaning, analysis, visuals)  
+📄 **PDF Report** – Documented insights with charts  
+📊 **Presentation (PPTX)** – Summary of findings  
+📈 **Raw CSV File** – Original dataset used for analysis  
 
-## 👨‍💻 How to Use {#how-to-use}
+---
 
-Start with the PDF to understand overall insights
+## 📊 Key Insights
 
-Open the Notebook for complete analysis and visualizations
+- **Age group 26–35** spends the most → primary marketing segment  
+- **Female customers order more** than males  
+- **Top-performing states:** Uttar Pradesh, Maharashtra, Karnataka  
+- **Married customers** show slightly higher spending  
+- **Food category** contributes the highest revenue  
 
-Use the CSV to reproduce or extend the project
+---
 
-View the PPTX for a quick summary presentation
+## 👨‍💻 How to Use
 
-## 👤 Author {#author}
+1. Read the **PDF** for a quick understanding of insights  
+2. Open the **Notebook** to view complete analysis step-by-step  
+3. Use the **CSV** to re-run or extend the project  
+4. View the **Presentation** for a concise executive summary  
 
-Dharmesh Parmar
-Data Analyst | SQL | Excel | Power BI | Python
-📧 Dhparmar@gmail.com
+---
+
+## 👤 Author
+
+**Dharmesh Parmar**  
+Data Analyst | SQL | Excel | Power BI | Python  
+📧 **Dhparmar@gmail.com**
